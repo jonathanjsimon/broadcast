@@ -20,9 +20,9 @@ public class BroadcastTest
     public static LinkedList<Broadcaster> bcasters = new LinkedList<Broadcaster>();
     public static LinkedList<Integer> netIFaceIDs = new LinkedList<Integer>();
 
-    // public static String BCAST_ADDRESS = "239.195.188.235";
-    // public static int BASE_AMP_BCAST_PORT = 17089;
-    // public static int AMP_BCAST_PORT_OFFSET = 254;
+//     public static String BCAST_ADDRESS = "239.195.188.235";
+//     public static int BASE_AMP_BCAST_PORT = 17089;
+//     public static int AMP_BCAST_PORT_OFFSET = 120;
 
     public static String BCAST_ADDRESS = "224.0.113.0";
     public static int BASE_AMP_BCAST_PORT = 4446;
